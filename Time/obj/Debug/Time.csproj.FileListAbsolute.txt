@@ -1,0 +1,7 @@
+C:\Users\lenovo\Desktop\Домашка 2 курс\ООП\1 семестр\Лаб3\ConsoleApp1\Time\bin\Debug\Time.exe.config
+C:\Users\lenovo\Desktop\Домашка 2 курс\ООП\1 семестр\Лаб3\ConsoleApp1\Time\bin\Debug\Time.exe
+C:\Users\lenovo\Desktop\Домашка 2 курс\ООП\1 семестр\Лаб3\ConsoleApp1\Time\bin\Debug\Time.pdb
+C:\Users\lenovo\Desktop\Домашка 2 курс\ООП\1 семестр\Лаб3\ConsoleApp1\Time\obj\Debug\Time.csprojAssemblyReference.cache
+C:\Users\lenovo\Desktop\Домашка 2 курс\ООП\1 семестр\Лаб3\ConsoleApp1\Time\obj\Debug\Time.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Desktop\Домашка 2 курс\ООП\1 семестр\Лаб3\ConsoleApp1\Time\obj\Debug\Time.exe
+C:\Users\lenovo\Desktop\Домашка 2 курс\ООП\1 семестр\Лаб3\ConsoleApp1\Time\obj\Debug\Time.pdb
